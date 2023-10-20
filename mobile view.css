@@ -1,0 +1,11 @@
+body{margin:0; padding: 0; 
+    line-height: ;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+
+   .pic{ height: 500px; width: 300px; margin-left: 380px; position: absolute; margin-top: 100px; border-radius:10px ;  box-shadow: 10px 5px 5px rgb(161, 159, 159); }
+   p{ position: absolute; padding-left: 470px; padding-top: 330px; color: white; font-size: 29px; font-weight: bold;}
+
+   .pic2{ margin-left: 650px; margin-top: 160px; height: 480px; width: 450px; border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px; }
+   
+   .life{background-color: rgb(240, 240, 240); height: 1000px;}
